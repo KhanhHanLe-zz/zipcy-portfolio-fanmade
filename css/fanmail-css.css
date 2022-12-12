@@ -76,6 +76,3 @@ input[type=text]:focus{
 textarea::-webkit-scrollbar{
   width: 90%;
 }
-.test2 {
-  background-color: red;
-}
